@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Pessoal\RichText\RichText\bin\Debug\netcoreapp3.1\RichText.exe
+C:\Users\User\source\repos\Pessoal\RichText\RichText\bin\Debug\netcoreapp3.1\RichText.deps.json
+C:\Users\User\source\repos\Pessoal\RichText\RichText\bin\Debug\netcoreapp3.1\RichText.runtimeconfig.json
+C:\Users\User\source\repos\Pessoal\RichText\RichText\bin\Debug\netcoreapp3.1\RichText.runtimeconfig.dev.json
+C:\Users\User\source\repos\Pessoal\RichText\RichText\bin\Debug\netcoreapp3.1\RichText.dll
+C:\Users\User\source\repos\Pessoal\RichText\RichText\bin\Debug\netcoreapp3.1\RichText.pdb
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.RichText.resources
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.AssemblyInfo.cs
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.dll
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.pdb
+C:\Users\User\source\repos\Pessoal\RichText\RichText\obj\Debug\netcoreapp3.1\RichText.genruntimeconfig.cache
